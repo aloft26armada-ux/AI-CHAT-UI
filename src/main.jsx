@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
+import 'highlight.js/styles/github-dark.css'
 import './index.css'
 import './styles/app.css'
 import './styles/sidebar.css'
