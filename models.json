@@ -1,0 +1,74 @@
+[
+  {
+    "id": "Llama-3.2-3B-Instruct-q4f16_1-MLC",
+    "name": "Llama 3.2 3B Instruct",
+    "family": "Llama 3",
+    "size": "3B",
+    "vram": "~3.2GB",
+    "context": "8K",
+    "description": "Best balance of speed and quality for most users"
+  },
+  {
+    "id": "Llama-3.1-8B-Instruct-q4f16_1-MLC",
+    "name": "Llama 3.1 8B Instruct",
+    "family": "Llama 3",
+    "size": "8B",
+    "vram": "~6.8GB",
+    "context": "8K",
+    "description": "High quality, needs powerful GPU"
+  },
+  {
+    "id": "Qwen2.5-3B-Instruct-q4f16_1-MLC",
+    "name": "Qwen 2.5 3B Instruct",
+    "family": "Qwen 2.5",
+    "size": "3B",
+    "vram": "~3.1GB",
+    "context": "32K",
+    "description": "Strong multilingual and coding"
+  },
+  {
+    "id": "Qwen2.5-7B-Instruct-q4f16_1-MLC",
+    "name": "Qwen 2.5 7B Instruct",
+    "family": "Qwen 2.5",
+    "size": "7B",
+    "vram": "~6.5GB",
+    "context": "32K",
+    "description": "Excellent coding and reasoning"
+  },
+  {
+    "id": "gemma-2-2b-it-q4f16_1-MLC",
+    "name": "Gemma 2 2B Instruct",
+    "family": "Gemma 2",
+    "size": "2B",
+    "vram": "~2.3GB",
+    "context": "8K",
+    "description": "Fastest, great for low-end devices"
+  },
+  {
+    "id": "Phi-3.5-mini-instruct-q4f16_1-MLC",
+    "name": "Phi 3.5 Mini Instruct",
+    "family": "Phi-3",
+    "size": "3.8B",
+    "vram": "~3.4GB",
+    "context": "128K",
+    "description": "Long context, efficient reasoning"
+  },
+  {
+    "id": "Mistral-7B-Instruct-v0.3-q4f16_1-MLC",
+    "name": "Mistral 7B Instruct v0.3",
+    "family": "Mistral",
+    "size": "7B",
+    "vram": "~6.2GB",
+    "context": "32K",
+    "description": "Strong general purpose model"
+  },
+  {
+    "id": "DeepSeek-R1-Distill-Qwen-7B-q4f16_1-MLC",
+    "name": "DeepSeek R1 Distill 7B",
+    "family": "DeepSeek",
+    "size": "7B",
+    "vram": "~6.5GB",
+    "context": "32K",
+    "description": "Reasoning-focused distilled model"
+  }
+]
